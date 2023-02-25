@@ -1,0 +1,6 @@
+banana
+uva
+melancia
+laranja
+morango
+manga
